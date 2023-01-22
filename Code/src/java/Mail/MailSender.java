@@ -13,8 +13,8 @@ import javax.mail.internet.MimeMessage;
 public class MailSender {
     public static boolean sendMail(String receiver, String title, String msg){
          boolean bool = true;
-         final String password = "lx160cm@143";
-         final String from   = "datapointprojects13@gmail.com";
+         final String password = "ttlfxswcfjvohecu";
+         final String from   = "hepsibahdatapoint@gmail.com";
          String to   = receiver;
         
         Properties props = new Properties();
